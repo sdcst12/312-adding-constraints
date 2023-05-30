@@ -1,6 +1,9 @@
 #!python3
 
-# A basic canvas drawing using some geometric shapes
+# Find an image to use as a sprite from the Internet.
+# Modify the image (flipping horizontally is a quick way to do that) so that you have
+# a second, different image. Use the tkObject.after() method to animate it.
+# Note: You can find sprite sheets or tile sheets on the internet to help you!
 
 import tkinter as tk
 
